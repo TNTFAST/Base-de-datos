@@ -65,7 +65,8 @@ body {
 }
 
 .botonli{
-    display: block;
+    display: flex;
+    text-align: center;
     padding: 5px 10px;
     border: none;
     border-radius: 10px;
